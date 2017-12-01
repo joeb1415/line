@@ -26,6 +26,7 @@ wheels/
 *.egg
 .idea/
 .ipynb_checkpoints/
+venv/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
